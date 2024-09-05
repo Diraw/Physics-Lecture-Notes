@@ -9,3 +9,6 @@
 - [原子物理](./原子物理/)
 - [电工学](./电工学/)
 - [光学](./光学/)
+## 许可证
+
+此项目采用 [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) 许可证。
